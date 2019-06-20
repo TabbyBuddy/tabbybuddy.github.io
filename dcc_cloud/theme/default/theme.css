@@ -50,7 +50,7 @@ img.dccon					{	max-height:100px; }
 }
 .chat_outer_box.appear {
     opacity: 0;
-	transition: opacity 5000ms ease;
+	transition: opacity 6000ms ease;
 }
 .chat_msg_box {
 	display: inline-block; 

@@ -11,8 +11,8 @@ configDefault = {
 	theme							: "default",				// 사용할 테마. theme\테마\*의 파일을 사용
 	themeName					: "",						    /* 테마의 이름
 																					 theme로부터 import 												*/
-	msgExistDuration	: 0,								// 메세지가 애니메이션을 빼면 얼마나 오래 표시될 지
-	msgAniDuration		: 0,								/* 메세지 표시 애니메이션의 소요시간
+	msgExistDuration	: 2,								// 메세지가 애니메이션을 빼면 얼마나 오래 표시될 지
+	msgAniDuration		: 1,								/* 메세지 표시 애니메이션의 소요시간
 																					 theme로부터 import 												*/
 	debugLevel				:	2,								// 0:미표시, 1:console.log, 2:addChatMessage
 	useDisplayName		: true,						// 한글 닉네임으로 이름을 표시할지
