@@ -1,4 +1,4 @@
-﻿/* 폰트 로드 */
+/* 폰트 로드 */
 @import url(https://fonts.googleapis.com/earlyaccess/jejugothic.css);
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
@@ -41,7 +41,7 @@ html
 body
 {
 	position:absolute;
-	
+	background-color: rgba(0,0,0,0.2);
 	/* html의 기본 여백 제거 */
 	margin:0; right:0; left:0;
 	/* 채팅 메세지가 아래에서부터 나타나도록 */
@@ -89,7 +89,7 @@ img.dccon					{	max-width:70px; }
 	<div id="chat_wrapper">
 	...
 */
-#background	{	position:absolute; left:0; right:0; top:0; bottom:0; background-color: #000; opacity: 0.2;}
+#background	{	position:absolute; left:0; right:0; top:0; bottom:0; }
 
 
 
