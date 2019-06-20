@@ -273,50 +273,9 @@ var checkComplete = function() {
 									"-1px  1px 1px #4000ff," +
 									" 1px -1px 1px #4000ff," +
 									" 1px  1px 1px #bfff00;" + '">' +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"\n" +
-			"서민울이가 방송을 켰다고합니다.\n" +
+			"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +"" +
+			
+			"디시콘을 사용할 수 있는 채팅창입니다. 채널피드의 DC콘 검색엔진에서 보실수 있습니다." +
 			"</div></center>",
 			{ badges:[], escape:false }
 		)
@@ -359,7 +318,7 @@ debugLog = function(dat) {};
 		}
 	}
 	
-	debugLog(configLoadMessage + "설정 불러오기 완료");// 설정을 불러왔습니다.
+	debugLog(configLoadMessage + "");// 설정을 불러왔습니다.
 	checkComplete();
 }
 
@@ -401,7 +360,7 @@ var loadCss = function(isRetrying) {
 		
 		var ret = document.createElement("link");
 		ret.onload = function() {
-				debugLog(configData.themeName + "테마 불러오기 완료"); //테마를 적용했습니다.
+				debugLog(configData.themeName + ""); //테마를 적용했습니다.
 				checkComplete();
 		};
 		ret.onerror = function() {
@@ -464,7 +423,7 @@ if (configData.loadCheerImgs) {
 		return newMessage + (matches? matches: "");
 	};
 	
-	debugLog("아이콘 불러오기 완료"); //후원 아이콘을 불러왔습니다.
+	debugLog(""); //후원 아이콘을 불러왔습니다.
 	checkComplete();
 }
 else {
@@ -534,7 +493,7 @@ if (configData.loadTwitchCons) {
 			return newMessage;
 		}
 		
-		debugLog("이모티콘/디시콘 불러오기 완료"); //트위치 이모티콘과 구독콘을 적용했습니다.
+		debugLog(""); //트위치 이모티콘과 구독콘을 적용했습니다.
 		checkComplete();
 	}
 	else {
@@ -691,7 +650,7 @@ if (configData.loadDcCons) {
 				
 				return message;
 			};		
-			debugLog("디시콘 불러오기 완료"); //디씨콘을 적용했습니다.
+			debugLog(""); //디씨콘을 적용했습니다.
 			checkComplete();
 		}
 	};
@@ -736,7 +695,7 @@ defaultColors = [
 	"#FF0000", "#0000FF", "#00FF00", "#B22222", "#FF7F50",
 	"#9ACD32", "#FF4500", "#2E8B57", "#DAA520", "#D2691E",
 	"#5F9EA0", "#1E90FF", "#FF69B4", "#8A2BE2", "#00FF7F"];
-debugLog("트위치 로그인중...");//트위치에 접속을 시도합니다.
+debugLog("");//트위치에 접속을 시도합니다.
 manageMessage = function() {}; // 받은 명령어 처리 함수
 var client = (function() {
 	ws = new WebSocket(configData.webSocket);
@@ -777,7 +736,7 @@ var client = (function() {
 				case "JOIN":	// 서버에 유저가 접속
 					if(args[0].search("justinfan") != -1) {
 						debugLog(
-							args[2].substring(1) + " 채널 접속 완료");
+							args[2].substring(1) + " ON AIR");
 					}
 					if(++joinCount <= configData.channel.match(/#/g).length) {
 						checkComplete();
