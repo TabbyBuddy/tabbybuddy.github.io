@@ -1,0 +1,63 @@
+﻿@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+
+@keyframe appear {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+* { box-sizing: border-box; }
+html, body, #chat_wrapper {
+    width: 100%;
+    height: 100%;
+}
+html {
+	overflow: hidden;
+    font-family: 'Nanum Barun Gothic', 'Jeju Gothic', sans-serif;
+    text-shadow: 0 0 0.1rem #000, 0 0 0.1rem #000, 0 0 0.1rem #000, 0 0 0.1rem rgba(0, 0, 0, 0.1);
+    font-size: 0vh;
+}
+body {
+    margin: 0;
+}
+
+
+img.twitch_emote	{	max-width:50px; }
+img.dccon					{	max-height:100px; }
+#chat_wrapper {
+    padding: 1rem 3rem;
+    position: relative;
+}
+
+
+#twitch_emote {
+    height: 5vh;
+    opacity: 1;
+}
+
+#background,
+.chat_subscribe_box,
+.chat_cheer_box,
+.chat_nickname_box,
+.chat_inner_box,
+.chat_upper_box,
+.chat_nickname_box,
+.chat_badge_box,
+.clip_included { display: none }
+
+.chat_outer_box {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    opacity: 1;
+}
+.chat_outer_box.appear {
+    opacity: 0;
+	transition: opacity 5000ms ease;
+}
+.chat_msg_box {
+	display: inline-block; 
+	width: 100px; 
+	overflow: hidden;
+    white-space: nowrap;
+    word-break: keep-all;
+	text-overflow: ellipsis;
+    color: #fff;
+}
