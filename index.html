@@ -11,19 +11,59 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.14/spectre-icons.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.14/spectre.min.css" />
   <style>
+  
+ header {
+    flex-shrink: 0;
+	}
+	
+footer	 {
+    color: #ffffff;
+    text-align: center;
+	}
+
+a {
+    color: #c5b8ff;
+}
+	
     .width100 {
       width: 100%;
     }
 	
+	.search	{
+	width: 100%;
+    padding: 0 5%;
+}
+.col-8 {
+    width: 100%;
+}
+	
+.col-10 {
+	display: flex;
+flex-direction: row;
+justify-content: center;
+    width: 100%;
+}	
+
+#orimgs {
+    margin: 0 1rem 1rem;
+}
+
+.col-15	{ width:120px; flex:none; }
+
+.article {
+    overflow-y: auto;
+	display: block;
+}	
+	
 div.dccon.column {
-    padding-bottom: 4px;
-    padding-left: 2px;
-    padding-top: 4px;
-    padding-right: 2px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-top: 7px;
+    padding-right: 5px;
 	}
 	
 .col-1 {
-    width: 9.5%;
+    width: 12.5%;
 }
 	
 element.style {
@@ -37,21 +77,13 @@ element.style {
       z-index: auto;
     }
 
-    @media screen and (min-width: 800px) {
-      .columns {
-        max-width: 1920px;
-      }
-    } 
-    @media screen and (min-width: 801px) {
-      .container {
-        max-width: 1080px;
-      }
-	  .columns {
-        max-width: 1080px;
-      }
-    } 
 	
-    .img-responsive:hover {
+.column col-xs-12 col-lg-10 col-10 columns dccon-list{
+		width: 100%;
+      }
+
+	
+	.img-responsive:hover {
       border: 1px solid #b675ff;
       box-shadow: 0px 0px 10px 1px #b675ff, inset 0px 0px 10px 1px #b675ff; 
     }	 
@@ -59,6 +91,8 @@ element.style {
     body {
       padding-top: 20px;
       padding-bottom: 32px;
+	  flex-direction: column;
+	  display: flex;
       background: #463981;
     }
 
@@ -99,10 +133,11 @@ element.style {
     }
 
     .toast-container {
+	text-align: center;
       position: fixed;
       bottom: 0px;
       right: 0px;
-      padding: 16px;
+      padding: 10px;
       z-index: 400;
     }
 
@@ -145,8 +180,6 @@ element.style {
       -ms-transform: translate(-50%, -42px);
       transform: translate(-50%, -42px);		
     }
-		
-		.col-15		{ width:12.5%; flex:none; }
 		div.card		{ background:transparent; }
 		
 		.img-background			{	opacity:0; width:100px; height:100px; }
@@ -160,14 +193,13 @@ element.style {
 </head>
 
 <body>
-  <div class="container">
-    <div class="columns">
-      <div class="column hide-xs show col-md-1 col-2"></div>
+<header>
+    <div class="search">
       <div class="column col-xs-12 col-md-10 col-8">
         <div class="input-group input-inline width100">
           <div class="form-autocomplete width100">
             <div class="form-autocomplete-input form-input has-icon-right">
-              <input class="form-input" id="search" type="text" placeholder="디시콘 검색" />
+              <input class="form-input" id="search" type="text" placeholder="디시콘 이름으로 검색" />
               <i class="form-icon icon icon-cross" id="search_clear"></i>
             </div>
             <ul class="menu hide" id="autocomplete"></ul>
@@ -175,51 +207,51 @@ element.style {
         </div>
       </div>
     </div>
-    <div class="columns">
-      <div class="column hide-xs show col-md-1 col-2"></div>
+    <div class="search">
       <div class="column col-xs-12 col-md-10 col-8">
         <div class="tags"></div>
       </div>
     </div>
-    <div class="columns">
-      <div class="column hide-xs show col-lg-1 col-1"></div>
-      <div class="column col-xs-12 col-lg-10 col-10 columns dccon-list"></div>
-    </div>
+</header>
+<article>
+<ul id="orimgs">
+     <div class="column col-xs-12 col-lg-10 col-10 columns dccon-list" style="
+    margin-left: 0px;
+    margin-right: 0px;"></div>
+</ul>	
     <div class="toast-container"></div>
-
-  </div>
 	<script type="text/javascript">
-		var stl = null;
-		
-		var resize = function() {
-			if (stl!=null) { stl.remove(); }
-			stl = document.createElement("style");
-			
-			var width = document.body.getElementsByClassName("dccon-list")[0].scrollWidth;
-			if (width < 800)
-			{
-				if (width < 700)
-				{
-					if (width < 600)
-					{
-						if (width < 500)
-						{
-							if (width < 400) { stl.innerText=".col-15{width:33%;}" }
-							else { stl.innerText=".col-15{width:25%;}" }
-						}
-						else { stl.innerText=".col-15{width:20%;}" }
-					}
-					else { stl.innerText=".col-15{width:16.6%;}" }
-				}
-				else { stl.innerText=".col-15{width:14.25%;}" }
-			}
-			else { stl.innerText=".col-15{width:12.5%;}" }
-			
-			document.body.appendChild(stl);
-		};
-		
-		window.addEventListener("resize", resize);
-		window.addEventListener("load", resize);
+//		var stl = null;
+//		
+//		var resize = function() {
+//			if (stl!=null) { stl.remove(); }
+//			stl = document.createElement("style");//
+//			
+//			var width = document.body.getElementsByClassName("dccon-list")[0].scrollWidth;
+//			if (width < 800)
+//			{
+//				if (width < 700)
+//				{
+//					if (width < 600)
+//					{
+//						if (width < 500)
+//						{
+//							if (width < 400) { stl.innerText=".col-15{width:33%;}" }
+//							else { stl.innerText=".col-15{width:25%;}" }
+//						}
+//						else { stl.innerText=".col-15{width:20%;}" }
+//					}
+//					else { stl.innerText=".col-15{width:16.6%;}" }
+//				}
+//				else { stl.innerText=".col-15{width:14.25%;}" }
+//			}
+//			else { stl.innerText=".col-15{width:12.5%;}" }
+//			
+//			document.body.appendChild(stl);
+//		};
+//		
+//		window.addEventListener("resize", resize);
+//		window.addEventListener("load", resize);
 	</script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -459,5 +491,10 @@ element.style {
         });
     });
   </script>
+ <footer>
+        사용을 원하시는 디시콘을 클릭하시면 자동으로 클립보드에 복사됩니다.</a><br>
+		Edited by <a href="https://www.twitch.tv/max886">SeoMinwool</a>
+      </footer>
+	</article> 
  </body>
 </html>
