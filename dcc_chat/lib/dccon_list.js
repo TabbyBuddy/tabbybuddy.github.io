@@ -158,68 +158,68 @@ dcConsData = [
 
 
 	//댕댕콘
-	{name:"00121.png",			keywords:["댕댕간지"],			tags:["댕댕"]},	
+	{name:"00121.gif",			keywords:["댕댕간지"],			tags:["댕댕"]},	
 	{name:"00122.png",			keywords:["댕댕경멸"],			tags:["댕댕"]},	
 	{name:"00123.png",			keywords:["댕댕근엄"],			tags:["댕댕"]},	
 	{name:"00124.png",			keywords:["댕댕깜놀"],			tags:["댕댕"]},	
 
 	{name:"00125.png",			keywords:["댕댕깜짝"],			tags:["댕댕"]},	
 	{name:"00126.png",			keywords:["댕댕깜찍"],			tags:["댕댕"]},	
-	{name:"00127.png",			keywords:["댕댕끄덕"],			tags:["댕댕"]},	
+	{name:"00127.gif",			keywords:["댕댕끄덕"],			tags:["댕댕"]},	
 	{name:"00128.png",			keywords:["댕댕낼름"],			tags:["댕댕"]},	
 	
-	{name:"00129.png",			keywords:["댕댕눈뜸"],			tags:["댕댕"]},	
+	{name:"00129.gif",			keywords:["댕댕눈뜸"],			tags:["댕댕"]},	
 	{name:"00130.png",			keywords:["댕댕느끼"],			tags:["댕댕"]},	
 	{name:"00131.png",			keywords:["댕화들짝"],			tags:["댕댕"]},	
 	{name:"00132.png",			keywords:["댕댕똘끼"],			tags:["댕댕"]},	
 
-	{name:"00133.png",			keywords:["댕댕띠용"],			tags:["댕댕"]},	
+	{name:"00133.gif",			keywords:["댕댕띠용"],			tags:["댕댕"]},	
 	{name:"00134.png",			keywords:["댕댕모찌"],			tags:["댕댕"]},	
 	{name:"00135.png",			keywords:["댕댕모찌2"],			tags:["댕댕"]},	
-	{name:"00136.png",			keywords:["댕댕미소"],			tags:["댕댕"]},	
+	{name:"00136.gif",			keywords:["댕댕미소"],			tags:["댕댕"]},	
 
 	{name:"00137.png",			keywords:["댕댕미친"],			tags:["댕댕"]},	
 	{name:"00138.png",			keywords:["댕댕방긋"],			tags:["댕댕"]},	
 	{name:"00139.png",			keywords:["댕댕부담"],			tags:["댕댕"]},	
-	{name:"00140.png",			keywords:["댕댕부들"],			tags:["댕댕"]},	
+	{name:"00140.gif",			keywords:["댕댕부들"],			tags:["댕댕"]},	
 
 	{name:"00141.png",			keywords:["댕댕불쌍"],			tags:["댕댕"]},	
 	{name:"00142.png",			keywords:["댕댕빡침"],			tags:["댕댕"]},	
 	{name:"00143.png",			keywords:["댕댕빡침2"],			tags:["댕댕"]},	
-	{name:"00144.png",			keywords:["댕댕볼살"],			tags:["댕댕"]},	
+	{name:"00144.gif",			keywords:["댕댕볼살"],			tags:["댕댕"]},	
 
 	{name:"00145.png",			keywords:["댕댕슬픔"],			tags:["댕댕"]},	
-	{name:"00146.png",			keywords:["댕댕신나"],			tags:["댕댕"]},	
+	{name:"00146.gif",			keywords:["댕댕신나"],			tags:["댕댕"]},	
 	{name:"00147.png",			keywords:["댕댕아련"],			tags:["댕댕"]},	
 	{name:"00148.png",			keywords:["댕댕어이"],			tags:["댕댕"]},	
 
-	{name:"00149.png",			keywords:["댕댕억울"],			tags:["댕댕"]},	
+	{name:"00149.gif",			keywords:["댕댕억울"],			tags:["댕댕"]},	
 	{name:"00150.png",			keywords:["댕댕엄격"],			tags:["댕댕"]},	
 	{name:"00151.png",			keywords:["댕댕업신"],			tags:["댕댕"]},	
-	{name:"00152.png",			keywords:["댕댕갸웃"],			tags:["댕댕"]},	
+	{name:"00152.gif",			keywords:["댕댕갸웃"],			tags:["댕댕"]},	
 
-	{name:"00153.png",			keywords:["댕댕웃음"],			tags:["댕댕"]},	
+	{name:"00153.gif",			keywords:["댕댕웃음"],			tags:["댕댕"]},	
 	{name:"00154.png",			keywords:["댕댕윙크"],			tags:["댕댕"]},	
 	{name:"00155.png",			keywords:["댕댕정색"],			tags:["댕댕"]},	
 	{name:"00156.png",			keywords:["댕댕간지2"],			tags:["댕댕"]},	
 
 	{name:"00157.png",			keywords:["댕댕쪽팔"],			tags:["댕댕"]},	
-	{name:"00158.png",			keywords:["댕댕창피"],			tags:["댕댕"]},	
-	{name:"00159.png",			keywords:["댕댕충격"],			tags:["댕댕"]},	
+	{name:"00158.gif",			keywords:["댕댕창피"],			tags:["댕댕"]},	
+	{name:"00159.gif",			keywords:["댕댕충격"],			tags:["댕댕"]},	
 	{name:"00160.png",			keywords:["댕댕탄식"],			tags:["댕댕"]},	
 
-	{name:"00161.png",			keywords:["댕댕폭소"],			tags:["댕댕"]},	
-	{name:"00162.png",			keywords:["댕댕행복"],			tags:["댕댕"]},	
-	{name:"00163.png",			keywords:["댕댕확대"],			tags:["댕댕"]},	
+	{name:"00161.gif",			keywords:["댕댕폭소"],			tags:["댕댕"]},	
+	{name:"00162.gif",			keywords:["댕댕행복"],			tags:["댕댕"]},	
+	{name:"00163.gif",			keywords:["댕댕확대"],			tags:["댕댕"]},	
 	{name:"00164.png",			keywords:["댕댕황당"],			tags:["댕댕"]},	
 
-	{name:"00165.png",			keywords:["댕댕갸웃2"],			tags:["댕댕"]},	
+	{name:"00165.gif",			keywords:["댕댕갸웃2"],			tags:["댕댕"]},	
 	{name:"00166.png",			keywords:["댕댕정색2"],			tags:["댕댕"]},	
-	{name:"00167.png",			keywords:["댕못마땅"],			tags:["댕댕"]},	
-	{name:"00168.png",			keywords:["댕뚝배기"],			tags:["댕댕"]},	
+	{name:"00167.gif",			keywords:["댕못마땅"],			tags:["댕댕"]},	
+	{name:"00168.gif",			keywords:["댕뚝배기"],			tags:["댕댕"]},	
 	
-	{name:"00169.png",			keywords:["댕댕크앙"],			tags:["댕댕"]},	
-	{name:"00170.png",			keywords:["댕댕핥핥"],			tags:["댕댕"]},	
+	{name:"00169.gif",			keywords:["댕댕크앙"],			tags:["댕댕"]},	
+	{name:"00170.gif",			keywords:["댕댕핥핥"],			tags:["댕댕"]},	
 	
 
 	//
