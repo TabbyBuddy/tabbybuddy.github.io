@@ -222,8 +222,17 @@ dcConsData = [
 	{name:"00170.gif",			keywords:["댕댕핥핥"],			tags:["댕댕"]},	
 	
 
-	//
-	{name:"00171.png",			keywords:["ㅁ"],			tags:["ㄹ"]}	
+	//껍질미리깐달걀콘
+	{name:"00171.png",			keywords:["즐겁다"],			tags:["깐달걀콘"]},	
+	{name:"00172.png",			keywords:["혐오한다"],			tags:["깐달걀콘"]},	
+	{name:"00173.png",			keywords:["실망하다"],			tags:["깐달걀콘"]},	
+	{name:"00174.png",			keywords:["마참내"],			tags:["깐달걀콘"]},
 
+	{name:"00175.png",			keywords:["가즈아"],			tags:["깐달걀콘"]},	
+	{name:"00176.png",			keywords:["두렵다"],			tags:["깐달걀콘"]},	
+	{name:"00177.png",			keywords:["띠껍다"],			tags:["깐달걀콘"]},
+
+	//
+	{name:"00171.png",			keywords:["ㅁ"],			tags:["ㄹ"]}
 		
 ];

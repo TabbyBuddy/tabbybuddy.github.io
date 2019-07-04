@@ -1,7 +1,7 @@
 {
   "dccons": [
-    {"keywords" : ["손비빔"], "tags": ["시청자콘"], "path": "https://i.imgur.com/DsO2rB0.gif"},
-    {"keywords" : ["빻빻빻"], "tags": ["시청자콘"], "path": "https://i.imgur.com/7JfAqjw.gif"},
+    {"keywords" : ["손비빔"], "tags": ["시청자콘", "움짤"], "path": "https://i.imgur.com/DsO2rB0.gif"},
+    {"keywords" : ["빻빻빻"], "tags": ["시청자콘", "움짤"], "path": "https://i.imgur.com/7JfAqjw.gif"},
  	 
   
   
@@ -222,7 +222,18 @@
     {"keywords" : ["댕뚝배기"], "tags": ["댕댕콘", "움짤"], "path": "https://i.imgur.com/AMnKojw.gif"},
 
     {"keywords" : ["댕댕크앙"], "tags": ["댕댕콘", "움짤"], "path": "https://i.imgur.com/nBYifmT.gif"},
-    {"keywords" : ["댕댕핥핥"], "tags": ["댕댕콘", "움짤"], "path": "https://i.imgur.com/YvNC5zl.gif"}
+    {"keywords" : ["댕댕핥핥"], "tags": ["댕댕콘", "움짤"], "path": "https://i.imgur.com/YvNC5zl.gif"},
+
+
+
+    {"keywords" : ["즐겁다"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/ctNpCnu.png"},
+    {"keywords" : ["혐오한다"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/oKTdh0K.png"},
+    {"keywords" : ["실망하다"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/soDANvA.png"},
+    {"keywords" : ["마참내"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/MI6FmZG.png"},
+
+    {"keywords" : ["가즈아"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/kFvaJ53.png"},
+    {"keywords" : ["두렵다"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/6ybpAoE.png"},
+    {"keywords" : ["띠껍다"], "tags": ["깐달걀콘"], "path": "https://i.imgur.com/XzgUWzN.png"}
 
   ]
 }
