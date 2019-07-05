@@ -41,6 +41,8 @@ html
 body
 {
 	position:absolute;
+	-webkit-mask-image: -webkit-gradient(linear,left 20%,left top,from(rgba(0,0,0,1)),to(rgba(0,0,0,0)));
+	/*상단 그라데이션*/
 	background-color: rgba(0,0,0,0.2);
 	/* html의 기본 여백 제거 */
 	margin:0; right:0; left:0;
