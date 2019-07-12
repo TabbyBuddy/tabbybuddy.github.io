@@ -232,6 +232,28 @@ dcConsData = [
 	{name:"00176.png",			keywords:["두렵다"],			tags:["깐달걀콘"]},	
 	{name:"00177.png",			keywords:["띠껍다"],			tags:["깐달걀콘"]},
 
+
+	//나인우콘
+	{name:"00178.gif",			keywords:["지금갑니다"],			tags:["나인우콘"]},	
+	{name:"00179.gif",			keywords:["끄덕끄덕"],			tags:["나인우콘"]},	
+	{name:"00180.gif",			keywords:["도리도리"],			tags:["나인우콘"]},	
+	{name:"00181.gif",			keywords:["지긋이"],			tags:["나인우콘"]},
+
+	{name:"00182.gif",			keywords:["신난당"],			tags:["나인우콘"]},	
+	{name:"00183.gif",			keywords:["눈깔굴림"],			tags:["나인우콘"]},	
+	{name:"00184.gif",			keywords:["눈깔굴림2"],			tags:["나인우콘"]},
+	{name:"00185.gif",			keywords:["안녕"],			tags:["나인우콘"]},	
+
+	{name:"00186.gif",			keywords:["긁적"],			tags:["나인우콘"]},	
+	{name:"00187.gif",			keywords:["와"],			tags:["나인우콘"]},	
+	{name:"00188.gif",			keywords:["포기"],			tags:["나인우콘"]},
+	{name:"00189.gif",			keywords:["눙물"],			tags:["나인우콘"]},	
+
+	{name:"00190.gif",			keywords:["좋카죽카"],			tags:["나인우콘"]},	
+	{name:"00191.gif",			keywords:["끄덕"],			tags:["나인우콘"]},	
+	{name:"00192.gif",			keywords:["끄덕덕"],			tags:["나인우콘"]},	
+			
+	
 	//
 	{name:"00171.png",			keywords:["ㅁ"],			tags:["ㄹ"]}
 		
