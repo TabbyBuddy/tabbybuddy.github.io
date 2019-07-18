@@ -105,6 +105,9 @@ dcConsData = [
 	{name:"00079.png",			keywords:["돋보개구리"],			tags:["찌그러진개구리콘"]},		
 	{name:"00080.png",			keywords:["ㅅㅂ개구리"],			tags:["찌그러진개구리콘"]},			
 
+	{name:"00193.gif",			keywords:["깜놀개구리"],			tags:["찌그러진개구리콘"]},
+
+
 	//야인시대콘(심영콘)
 	{name:"00081.gif",			keywords:["야이정신병자야"],			tags:["심영"]},		
 	{name:"00082.gif",			keywords:["봐줘ㅅㅇ"],			tags:["심영"]},		
