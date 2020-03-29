@@ -1,0 +1,272 @@
+
+{
+
+"손비빔" 		: "https://i.imgur.com/DsO2rB0.gif",
+"빻빻빻" 		: "https://i.imgur.com/7JfAqjw.gif",
+
+
+
+"으앙냥이" 		: "https://i.imgur.com/096cyPC.gif",
+"슬픈냥이" 		: "https://i.imgur.com/KCCUz0e.gif",
+"엿냥이" 		: "https://i.imgur.com/y7FtTHO.gif",
+"믿음냥이"		: "https://i.imgur.com/t89CPx2.gif",
+
+"눙물냥이"		: "https://i.imgur.com/uaFLlm4.gif",
+"와꾸냥이"		: "https://i.imgur.com/P51tWRv.gif",
+"잘자냥이"		: "https://i.imgur.com/50IB1mr.gif",
+"배고픈냥이"		:"https://i.imgur.com/aNUrTXf.gif",
+
+"눈물냥이"			:"https://i.imgur.com/HAVx7Xo.gif",	
+"모자냥이" 		: "https://i.imgur.com/JpZ224K.gif",
+"저격냥이" 			: "https://i.imgur.com/IGCOKdn.gif",
+"으아앙냥이" 			: "https://i.imgur.com/nkD0Fgs.gif",
+
+"토냥이"				:"https://i.imgur.com/Kadsluz.gif",
+"눈물냥이2"			:"https://i.imgur.com/nhm1wMS.gif",
+"먹고픈냥이"				:"https://i.imgur.com/ThPYrJs.gif",
+"쓸쓸냥이"			:"https://i.imgur.com/JUF5Taa.gif",
+
+"와꾸냥이2"			:"https://i.imgur.com/DIhstZ5.gif",
+"멍청냥이"			:"https://i.imgur.com/BPFCbEH.gif",
+"눈물냥이3"			:"https://i.imgur.com/GTnDhNM.gif",
+"시가냥이"			:"https://i.imgur.com/sgdmfH6.gif",
+
+"와꾸냥이3"			:"https://i.imgur.com/EW303iO.gif",
+"슬픈냥이2"			:"https://i.imgur.com/rSnD5TX.gif",
+"데부냥이"			:"https://i.imgur.com/VMhknuF.gif",
+"와꾸냥이4"			:"https://i.imgur.com/b0w47NS.gif",
+
+"으악냥이"			:"https://i.imgur.com/UifPihC.gif",
+"충격냥이"			:"https://i.imgur.com/SQNHbkd.png",
+"흐음냥이"			:"https://i.imgur.com/1uhjo56.gif",
+"증발냥이"		:"https://i.imgur.com/FYC0kJM.gif",
+
+"ㅈㅅ냥이"		:"https://i.imgur.com/9DGBUCZ.gif",
+"흉기냥이"		:"https://i.imgur.com/9in4YbV.gif",
+
+
+
+"예스개구리"		:"https://i.imgur.com/0NdVLYw.png",
+"십자개구리"		:"https://i.imgur.com/zycd8b3.png",
+
+"후훗개구리"		:"https://i.imgur.com/tatIJok.png",
+"꿀잼개구리"		:"https://i.imgur.com/DFsKaye.png",
+"졸잼개구리"		:"https://i.imgur.com/wazVQId.png",
+"광대개구리"		:"https://i.imgur.com/2VM44ts.png",
+
+"우씨개구리"		:"https://i.imgur.com/rzUf4J6.png",
+"뻐큐개구리"		:"https://i.imgur.com/Qd1Sl2O.png",
+"히키개구리" 			: "https://i.imgur.com/XEo3pme.png",
+"팬티개구리" 			: "https://i.imgur.com/5fgQ9s4.png",
+
+"좋은개구리" 			: "https://i.imgur.com/gBHJWUo.png",
+"노개구리" 			: "https://i.imgur.com/Kyq7fwK.png",
+"흐음개구리" 			: "https://i.imgur.com/50IFIf8.png",
+"헤헤개구리" 		: "https://i.imgur.com/Ob3pCvU.png",
+
+"취침개구리" 		: "https://i.imgur.com/eXQ82Hy.png",
+"청취개구리"		:"https://i.imgur.com/UIuaoyn.gif",
+"발광개구리"		:"https://i.imgur.com/RBsAgoa.gif",
+"박수개구리"		:"https://i.imgur.com/nnLfIG3.gif",
+
+"ㅄ개구리"		:"https://i.imgur.com/XN9Aje8.gif",
+"댄스개구리"		:"https://i.imgur.com/hsahNhE.gif",
+"패는개구리"		:"https://i.imgur.com/HcCVcxE.gif",
+"내눈개구리"	:"https://i.imgur.com/wGZbQQO.png",
+
+"무룩개구리"		:"https://i.imgur.com/F5o2SsD.png",
+"행복개구리"	:"https://i.imgur.com/phLfjWx.png",
+"히죽개구리"	:"https://i.imgur.com/PgrQyDP.png",
+"어이개구리"		:"https://i.imgur.com/tcCz29I.png",
+
+"화난개구리"		:"https://i.imgur.com/ZgjNKNU.png",
+"권총개구리"		:"https://i.imgur.com/8s8biOm.png",
+"힙한개구리"		:"https://i.imgur.com/mNNbhg5.png",
+"닌자개구리"		:"https://i.imgur.com/1hkSOIq.png",
+
+"우울개구리"		:"https://i.imgur.com/jGigEmy.png",
+"임마개구리"		:"https://i.imgur.com/jozL237.png",
+"도트개구리"		:"https://i.imgur.com/L7BueR7.png",
+"와개구리"	:"https://i.imgur.com/sa69Vv0.png",
+
+"으악개구리"		:"https://i.imgur.com/AF5dWP3.png",
+"증발개구리"	:"https://i.imgur.com/BiuI5LJ.png",
+"지적개구리"	:"https://i.imgur.com/g5Gh3GT.png",
+"에잉개구리"	:"https://i.imgur.com/hDqHcFP.png",
+
+"눈물개구리"	:"https://i.imgur.com/X16liyK.png",
+"불면개구리"	:"https://i.imgur.com/gMYGwja.png",
+"슬픈개구리"	:"https://i.imgur.com/kgoqB3I.png",
+"허허개구리"	:"https://i.imgur.com/HXA4Qoc.png",
+
+"핥짝개구리"	:"https://i.imgur.com/2kD2RSI.png",
+"레알개구리"	:"https://i.imgur.com/v6X93OL.png",
+"포기개구리"	:"https://i.imgur.com/9Z9D8x1.png",
+"힙개구리"		:"https://i.imgur.com/8ssbGli.png",
+
+"대박개구리"		:"https://i.imgur.com/GeWo6mt.png",
+"맥주개구리"	:"https://i.imgur.com/UVbH1Wp.png",
+"돋보개구리"		:"https://i.imgur.com/suNh6Uc.png",
+"ㅅㅂ개구리"		:"https://i.imgur.com/nlBHHEH.png",
+
+"깜놀개구리"	:"https://i.imgur.com/mPx3kyb.gif",
+
+
+
+
+
+"야이정신병자야"	:"https://i.imgur.com/tattYsK.gif",
+"봐줘ㅅㅇ"		:"https://i.imgur.com/bX7AylO.gif",
+"단비꺼ㅅㅇ"		:"https://i.imgur.com/4xsdqSo.gif",
+"에엑따ㅅㅇ"		:"https://i.imgur.com/1ZfLkAA.gif",
+
+"발광ㅅㅇ"	:"https://i.imgur.com/7ASperE.gif",
+"개놀람ㅅㅇ"	:"https://i.imgur.com/CcQOclF.gif",
+"맴매ㅅㅇ"	:"https://i.imgur.com/tgSkmHa.gif",
+"맴맴매ㅅㅇ"	:"https://i.imgur.com/KAg1deK.gif",
+
+"속구경ㅅㅇ"		:"https://i.imgur.com/rNpJtjb.gif",
+"또구경ㅅㅇ"	:"https://i.imgur.com/jgkBTlW.gif",
+"링겔ㅅㅇ"		:"https://i.imgur.com/uoGR3F8.gif",
+"ㅈㅅㅅㅇ"		:"https://i.imgur.com/TA3N1K1.gif",
+
+"환대ㅅㅇ"		:"https://i.imgur.com/3HIKJVw.gif",
+"나죽네ㅅㅇ"		:"https://i.imgur.com/NTLCFe0.gif",
+"탈주ㅅㅇ"		:"https://i.imgur.com/FUgxvVa.gif",
+"뭐야ㅅㅇ"		:"https://i.imgur.com/kGKsAdB.gif",
+
+"웃음ㅅㅇ"			:"https://i.imgur.com/rs8L5u2.gif",
+"박수ㅅㅇ"		:"https://i.imgur.com/DLHXS2Q.gif",
+"박수ㅅㅇ2"		:"https://i.imgur.com/HQShHCY.gif",
+"탈주ㅅㅇ2"		:"https://i.imgur.com/EP5XmKU.gif",
+
+"병원ㅅㅇ"			:"https://i.imgur.com/ZNnToo4.gif",
+"뿌듯ㅅㅇ"		:"https://i.imgur.com/cVS3JSp.gif",
+"봐줘요ㅅㅇ"		:"https://i.imgur.com/dB0RRCN.gif",
+"혼미ㅅㅇ"		:"https://i.imgur.com/uKojoE0.gif",
+
+"어무니ㅅㅇ"			:"https://i.imgur.com/hUCZY4k.gif",
+"열변ㅅㅇ"			:"https://i.imgur.com/dKa5cPD.gif",
+"웅변ㅅㅇ"			:"https://i.imgur.com/qmIesOj.gif",
+"의사ㅅㅇ"		:"https://i.imgur.com/VOjQayW.gif",
+
+"진찰ㅅㅇ"		:"https://i.imgur.com/SY3kPU1.gif",
+"깔깔ㅅㅇ"		:"https://i.imgur.com/IKS4rlS.gif",
+"폭발ㅅㅇ"		:"https://i.imgur.com/2mOvd0q.gif",
+"계약ㅅㅇ"		:"https://i.imgur.com/woRtI5L.gif",
+
+"조준ㅅㅇ"		:"https://i.imgur.com/cjreoFl.gif",
+"흐음ㅅㅇ"		:"https://i.imgur.com/0acIVod.gif",
+"아씨뭐하는거야"		:"https://i.imgur.com/BfkgIIZ.gif",
+"빵야ㅅㅇ"		:"https://i.imgur.com/M1tabwF.gif",
+
+"연발ㅅㅇ"		:"https://i.imgur.com/O2H0dBf.gif",
+"야바위ㅅㅇ"		:"https://i.imgur.com/hpnLSJU.gif",
+"대찬사ㅅㅇ"		:"https://i.imgur.com/39CriGo.gif",
+"응원ㅅㅇ"			:"https://i.imgur.com/rbHDxEU.gif",
+
+
+
+
+
+
+"댕댕간지"		:"https://i.imgur.com/k9bTZvU.gif",
+"댕댕경멸"		:"https://i.imgur.com/rRpCpne.png",
+"댕댕근엄"			:"https://i.imgur.com/PzkU1TL.png",
+"댕댕깜놀"		:"https://i.imgur.com/UV4Bdzt.png",
+
+"댕댕깜짝"		:"https://i.imgur.com/W2wDt0r.png",
+"댕댕깜찍"		:"https://i.imgur.com/CXj8q6N.png",
+"댕댕끄덕"	:"https://i.imgur.com/cLJ1nO4.gif",
+"댕댕낼름"		:"https://i.imgur.com/zM0cajO.png",
+
+"댕댕눈뜸"	:"https://i.imgur.com/qhlnOhs.gif",
+"댕댕느끼"	:"https://i.imgur.com/Mq28LJY.png",
+"댕화들짝"		:"https://i.imgur.com/ZxIRgOg.png",
+"댕댕똘끼"		:"https://i.imgur.com/kOsEFYh.png",
+
+"댕댕띠용"		:"https://i.imgur.com/lFVV1Jc.gif",
+"댕댕모찌"		:"https://i.imgur.com/ODkqTxz.png",
+"댕댕모찌2"	:"https://i.imgur.com/pjKW4Uo.png",
+"댕댕미소"		:"https://i.imgur.com/ddkQcIg.gif",
+
+"댕댕미친"		:"https://i.imgur.com/O93xLQY.png",
+"댕댕방긋"	:"https://i.imgur.com/2qJ5cbJ.png",
+"댕댕부담"	:"https://i.imgur.com/xCeumX3.png",
+"댕댕부들"	:"https://i.imgur.com/lzhcXjz.gif",
+
+"댕댕불쌍"		:"https://i.imgur.com/w4r7HLO.png",
+"댕댕빡침"	:"https://i.imgur.com/tLVeIHO.png",
+"댕댕빡침2"	:"https://i.imgur.com/6S0CvQn.png",
+"댕댕볼살"		:"https://i.imgur.com/WHFq02E.gif",
+
+"댕댕슬픔"		:"https://i.imgur.com/dufsXqa.png",
+"댕댕신나"		:"https://i.imgur.com/sWG1Aqa.gif",
+"댕댕아련"		:"https://i.imgur.com/WCB5kSh.png",
+"댕댕어이"		:"https://i.imgur.com/a3LOPsv.png",
+
+"댕댕억울"		:"https://i.imgur.com/ppTywqu.gif",
+"댕댕엄격"		:"https://i.imgur.com/2qAelog.png",
+"댕댕업신"				:"https://i.imgur.com/OA8AnEZ.png",
+"댕댕갸웃"				:"https://i.imgur.com/aXFnXDY.gif",
+
+"댕댕웃음"		:"https://i.imgur.com/5II71hq.gif",
+"댕댕윙크"		:"https://i.imgur.com/nS3OyBm.png",
+"댕댕정색"		:"https://i.imgur.com/7rhqsnN.png",
+"댕댕간지2"		:""https://i.imgur.com/8o4XSR5.png",
+
+"댕댕쪽팔"		:"https://i.imgur.com/NnzoifJ.png",
+"댕댕창피"		:"https://i.imgur.com/zOhJfsO.gif",
+"댕댕충격"		:"https://i.imgur.com/N3cViDE.gif",
+"댕댕탄식"		:"https://i.imgur.com/YxmXNej.png",
+
+"댕댕폭소"		:"https://i.imgur.com/IDA70pl.gif",
+"댕댕행복"		:"https://i.imgur.com/tk4yvGO.gif",
+"댕댕확대"		:"https://i.imgur.com/ukf6vjU.gif",
+"댕댕황당"		:"https://i.imgur.com/vwVtReV.png",
+
+"댕댕갸웃2"		:"https://i.imgur.com/9Hjxjfo.gif",
+"댕댕정색2"		:"https://i.imgur.com/d6ITlrR.png",
+"댕못마땅"		:"https://i.imgur.com/XTTsvhC.gif",
+"댕뚝배기"		:"https://i.imgur.com/AMnKojw.gif",
+
+"댕댕크앙"		:"https://i.imgur.com/nBYifmT.gif",
+"댕댕핥핥"		:"https://i.imgur.com/YvNC5zl.gif",
+
+
+
+
+
+"즐겁다"		:"https://i.imgur.com/ctNpCnu.png",
+"혐오한다"	:"https://i.imgur.com/oKTdh0K.png",
+"실망하다"		:"https://i.imgur.com/soDANvA.png",
+"마참내"		:"https://i.imgur.com/MI6FmZG.png",
+
+"가즈아"	:"https://i.imgur.com/kFvaJ53.png",
+"두렵다"	:"https://i.imgur.com/6ybpAoE.png",
+"띠껍다"	:"https://i.imgur.com/XzgUWzN.png",
+
+
+
+
+
+"지금갑니다"	:"https://i.imgur.com/WB5Yoct.gif",
+"끄덕끄덕"	:"https://i.imgur.com/WE7TGmO.gif",
+"도리도리"	:"https://i.imgur.com/nGoWXdQ.gif",
+"지긋이"	:"https://i.imgur.com/eutU5iA.gif",
+
+"신난당"	:"https://i.imgur.com/hacfYTI.gif",
+"눈깔굴림"	:"https://i.imgur.com/0MD2R3m.gif",
+"눈깔굴림2"	:"https://i.imgur.com/tgOeWJU.gif",
+"안녕"	:"https://i.imgur.com/d48QvQK.gif",
+
+"긁적"	:"https://i.imgur.com/qsvKp51.gif",
+"와"	:"https://i.imgur.com/tGQfhXb.gif",
+"포기"	:"https://i.imgur.com/Wb4qUvC.gif",
+"눙물"	:"https://i.imgur.com/aTOrkZN.gif",
+
+"좋카죽카"	:"https://i.imgur.com/oKJAfnC.gif",
+"끄덕"	:"https://i.imgur.com/zBphz9I.gif",
+"끄덕덕"	:"https://i.imgur.com/Xgtkoyu.gif"
+
+}
