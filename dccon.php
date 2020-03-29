@@ -1,6 +1,5 @@
-<?php
-header("Access-Control-Allow-Origin: *");
-header("Content-Type: application/json; charset=utf-8");?>{
+
+{
 
 "손비빔" 		: "https://i.imgur.com/DsO2rB0.gif",
 "빻빻빻" 		: "https://i.imgur.com/7JfAqjw.gif",
