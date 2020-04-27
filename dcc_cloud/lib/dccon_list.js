@@ -2,6 +2,7 @@ dcConsData = [
 //시청자콘
 	{name:"aaaaaa.gif",			keywords:["손비빔"],			tags:["시청자콘"]},		
 	{name:"aaaaab.gif",			keywords:["빻빻빻"],			tags:["시청자콘"]},	
+	{name:"aaaaac.png",			keywords:["음흉"],			tags:["시청자콘"]},	
 
 //슬픈냥이콘
 	{name:"00001.gif",			keywords:["으앙냥이"],			tags:["슬픈냥이콘"]},		
@@ -312,7 +313,22 @@ dcConsData = [
 	{name:"00235.gif",			keywords:["화해의춤"],			tags:["톰과제리콘"]},	
 	
 	
-	//
-	{name:"00171.png",			keywords:["ㅁ"],			tags:["ㄹ"]}
-		
+	
+	//리사수콘
+	{name:"00236.png",			keywords:["암드"],			tags:["리사수콘"]},	
+	{name:"00237.png",			keywords:["라이젠"],			tags:["리사수콘"]},	
+	{name:"00238.png",			keywords:["웰컴암드"],			tags:["리사수콘"]},
+	{name:"00239.png",			keywords:["계획대로수"],			tags:["리사수콘"]},
+	
+	{name:"00240.png",			keywords:["고우시다"],			tags:["리사수콘"]},	
+	{name:"00241.png",			keywords:["암풍당당"],			tags:["리사수콘"]},
+	
+	
+	
+	//관짝댄스콘
+	{name:"00242.gif",			keywords:["관짝준비"],			tags:["관짝댄스콘"]},	
+	{name:"00243.gif",			keywords:["관짝댄스"],			tags:["관짝댄스콘"]},	
+	{name:"00244.gif",			keywords:["관짝댄스2"],			tags:["관짝댄스콘"]}
+	
+
 ];
