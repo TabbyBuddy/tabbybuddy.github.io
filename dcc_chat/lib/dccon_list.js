@@ -337,6 +337,6 @@ dcConsData = [
 	{name:"00247.gif",			keywords:["회전띵킹1"],			tags:["리사수콘"]},
 	{name:"00248.gif",			keywords:["회전띵킹2"],			tags:["리사수콘"]},
 	
-	{name:"00249.png",			keywords:["복잡띵킹"],			tags:["리사수콘"]}
+	{name:"00249.gif",			keywords:["복잡띵킹"],			tags:["리사수콘"]}
 	
 ];
