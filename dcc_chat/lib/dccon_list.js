@@ -328,7 +328,15 @@ dcConsData = [
 	//관짝댄스콘
 	{name:"00242.gif",			keywords:["관짝준비"],			tags:["관짝댄스콘"]},	
 	{name:"00243.gif",			keywords:["관짝댄스"],			tags:["관짝댄스콘"]},	
-	{name:"00244.gif",			keywords:["관짝댄스2"],			tags:["관짝댄스콘"]}
+	{name:"00244.gif",			keywords:["관짝댄스2"],			tags:["관짝댄스콘"]},
 	
-
+	
+	//띵킹페이스콘
+	{name:"00245.png",			keywords:["띵킹1"],			tags:["리사수콘"]},	
+	{name:"00246.png",			keywords:["띵킹2"],			tags:["리사수콘"]},	
+	{name:"00247.png",			keywords:["회전띵킹1"],			tags:["리사수콘"]},
+	{name:"00248.png",			keywords:["회전띵킹2"],			tags:["리사수콘"]},
+	
+	{name:"00249.png",			keywords:["복잡띵킹"],			tags:["리사수콘"]}
+	
 ];
