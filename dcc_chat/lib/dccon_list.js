@@ -334,8 +334,8 @@ dcConsData = [
 	//띵킹페이스콘
 	{name:"00245.png",			keywords:["띵킹1"],			tags:["리사수콘"]},	
 	{name:"00246.png",			keywords:["띵킹2"],			tags:["리사수콘"]},	
-	{name:"00247.png",			keywords:["회전띵킹1"],			tags:["리사수콘"]},
-	{name:"00248.png",			keywords:["회전띵킹2"],			tags:["리사수콘"]},
+	{name:"00247.gif",			keywords:["회전띵킹1"],			tags:["리사수콘"]},
+	{name:"00248.gif",			keywords:["회전띵킹2"],			tags:["리사수콘"]},
 	
 	{name:"00249.png",			keywords:["복잡띵킹"],			tags:["리사수콘"]}
 	
