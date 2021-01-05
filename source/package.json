@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "clipboard": "^1.7.1",
     "hangul-js": "^0.2.4",
     "lodash": "^4.17.4",
