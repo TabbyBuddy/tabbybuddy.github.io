@@ -14,7 +14,7 @@
     "axios": "^0.16.2",
     "clipboard": "^1.7.1",
     "hangul-js": "^0.2.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "spectre.css": "^0.2.14",
     "vue": "^2.3.3",
     "vue-lazyload": "^1.0.6",
