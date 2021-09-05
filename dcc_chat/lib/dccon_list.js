@@ -1,9 +1,4 @@
 dcConsData = [
-//시청자콘
-	{name:"aaaaaa.gif",			keywords:["손비빔"],			tags:["시청자콘"]},		
-	{name:"aaaaab.gif",			keywords:["빻빻빻"],			tags:["시청자콘"]},	
-	{name:"aaaaac.png",			keywords:["음흉"],			tags:["시청자콘"]},	
-
 //슬픈냥이콘
 	{name:"00001.gif",			keywords:["으앙냥이"],			tags:["슬픈냥이콘"]},		
 	{name:"00002.gif",			keywords:["슬픈냥이"],			tags:["슬픈냥이콘"]},		
