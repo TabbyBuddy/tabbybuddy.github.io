@@ -1,7 +1,7 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 /* 기본 설정 */
 configDefault = {
-	numChatMax				: 20,								// html에 한꺼번에 표시될 수 있는 메세지의 최대 갯수
+	numChatMax				: 3,								// html에 한꺼번에 표시될 수 있는 메세지의 최대 갯수
 	personalColor			:	true,						/* 이름 색깔을 트위치 이름색과 일치시킬지
 																					 theme에서 제한 가능 												*/
 	badgeVisible			: false,						/* 구독, 비트 등 뱃지를 표시할지
@@ -11,8 +11,8 @@ configDefault = {
 	theme							: "default",				// 사용할 테마. theme\테마\*의 파일을 사용
 	themeName					: "",						    /* 테마의 이름
 																					 theme로부터 import 												*/
-	msgExistDuration	: 2,								// 메세지가 애니메이션을 빼면 얼마나 오래 표시될 지
-	msgAniDuration		: 1,								/* 메세지 표시 애니메이션의 소요시간
+	msgExistDuration	: 5,								// 메세지가 애니메이션을 빼면 얼마나 오래 표시될 지
+	msgAniDuration		: 2,								/* 메세지 표시 애니메이션의 소요시간
 																					 theme로부터 import 												*/
 	debugLevel				:	2,								// 0:미표시, 1:console.log, 2:addChatMessage
 	useDisplayName		: true,						// 한글 닉네임으로 이름을 표시할지
