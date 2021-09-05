@@ -1,4 +1,5 @@
 dcConsData = [
+
 //슬픈냥이콘
 	{name:"00001.gif",			keywords:["으앙냥이"],			tags:["슬픈냥이콘"]},		
 	{name:"00002.gif",			keywords:["슬픈냥이"],			tags:["슬픈냥이콘"]},		
