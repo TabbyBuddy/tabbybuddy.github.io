@@ -5,7 +5,7 @@ configData = {
 	themeURI					: "",
 	theme							: "default",
 	themeName					: "",
-	msgExistDuration	: 10,
+	msgExistDuration	: 8,
 	msgAniDuration		: 2,
 	debugLevel				:	2,
 	useDisplayName		: true,
