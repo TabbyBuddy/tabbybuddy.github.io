@@ -20,7 +20,7 @@ body {
 }
 
 
-img.twitch_emote	{	max-width:50px; }
+img.twitch_emote	{	max-width:100px; }
 img.dccon					{	max-height:100px; }
 #chat_wrapper {
     padding: 1rem 3rem;
@@ -50,7 +50,7 @@ img.dccon					{	max-height:100px; }
 }
 .chat_outer_box.appear {
     opacity: 0;
-	transition: opacity 6000ms ease;
+	transition: opacity 2s 2s ease;
 }
 .chat_msg_box {
 	display: inline-block; 

@@ -23,8 +23,12 @@
     float: left !IMPORTANT;
 }
 .chat_nickname_box {
-    font-size: 20px !IMPORTANT;
-}
+	display:none  !IMPORTANT; 
+	}
+/*{
+	
+    font-size: 0px !IMPORTANT; 
+	}↑기본 20픽셀 */
 
 /*이모티콘, 디시콘만 쓸때 정렬 */
 .chat_msg_box.image_only {
@@ -43,7 +47,7 @@ body
 	position:absolute;
 	-webkit-mask-image: -webkit-gradient(linear,left 20%,left top,from(rgba(0,0,0,1)),to(rgba(0,0,0,0)));
 	/*상단 그라데이션*/
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.5) !IMPORTANT;
 	/* html의 기본 여백 제거 */
 	margin:0; right:0; left:0;
 	/* 채팅 메세지가 아래에서부터 나타나도록 */
@@ -52,7 +56,7 @@ body
 
 /* 최대(기본) 크기는 112px */
 img.twitch_emote	{	max-width:50px; }
-img.dccon					{	max-width:100px; }
+img.dccon					{	max-width:100px; } 
 
 
 /* 구독자 및 후원 메세지 설정 */
@@ -104,15 +108,15 @@ html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
  						 1px  1px 1px black,  1px   0 1px black,
 						 1px -1px 1px black,   0 -1px 1px black; 
 						 }
-.chat_nickname_box	{	font-size:25px;  }
 
+/*{	font-size:0px;  }
+↑기본 20픽셀 */
 
 .chat_outer_box			{	position:relative; z-index:0; overflow:hidden;
 											margin-top:8px; border:1px solid grey; padding:4px; }
 .chat_inner_box,	/* SOON DEPRECATED */
 .chat_upper_box			{	margin-bottom:3px; }
 											
-.chat_nickname_box,
 .chat_badge_box 		{	display:inline-block; }
 .chat_badge_box			{ float:right; }
 .chat_outer_box .chat_msg_box,
