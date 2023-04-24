@@ -2,10 +2,15 @@
 @import url(https://fonts.googleapis.com/earlyaccess/jejugothic.css);
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700);
 
 
 
 /* 채팅박스 */
+.chat_msg_box:before{
+	content:"- "
+}
+
 .chat_outer_box {
     position: relative;
     z-index: 0;
@@ -101,12 +106,12 @@ img.dccon					{	max-width:100px; }
 
 /* 폰트 설정 */
 html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
-											font-size:25px; color: white;
+											font-size:30px; color: white;
 											text-shadow:
-						-1px -1px 1px black, -1px   0 1px black,
-						-1px  1px 1px black,    0 1px 1px black,
- 						 1px  1px 1px black,  1px   0 1px black,
-						 1px -1px 1px black,   0 -1px 1px black; 
+						-2px -2px 2px black, -2px   0 2px black,
+						-2px  2px 2px black,    0 2px 2px black,
+ 						 2px  2px 2px black,  2px   0 1px black,
+						 2px -2px 2px black,   0 -2px 2px black; 
 						 }
 
 /*{	font-size:0px;  }
