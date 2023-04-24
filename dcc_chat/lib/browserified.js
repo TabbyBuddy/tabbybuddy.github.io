@@ -6,7 +6,7 @@ configDefault = {
 																					 theme에서 제한 가능 												*/
 	badgeVisible			: false,						/* 구독, 비트 등 뱃지를 표시할지
 																					 theme에서 제한 가능												*/
-	themeURI					: "",								/* 불러올 테마 Uri.
+	themeURI					: "https://tabbyx2.github.io/dcc_chat/theme/default/theme.css",								/* 불러올 테마 Uri.
 																					 로컬 테마를 이용할 경우 공백으로 둔다.			*/
 	theme							: "\theme\default\theme.css",				// 사용할 테마. theme\테마\*의 파일을 사용
 	themeName					: "",						    /* 테마의 이름

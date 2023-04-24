@@ -2,7 +2,7 @@ configData = {
 	numChatMax				: 20,
 	personalColor			:	/*false*/true,
 	badgeVisible			: false,
-	themeURI					: "",
+	themeURI					: "https://tabbyx2.github.io/dcc_chat/theme/default/theme.css",
 	theme							: "\theme\default\theme.css",
 	themeName					: "",
 	msgExistDuration	: 0,
