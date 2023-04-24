@@ -8,7 +8,7 @@ configDefault = {
 																					 theme에서 제한 가능												*/
 	themeURI					: "",								/* 불러올 테마 Uri.
 																					 로컬 테마를 이용할 경우 공백으로 둔다.			*/
-	theme							: "default",				// 사용할 테마. theme\테마\*의 파일을 사용
+	theme							: "\theme\default\theme.css",				// 사용할 테마. theme\테마\*의 파일을 사용
 	themeName					: "",						    /* 테마의 이름
 																					 theme로부터 import 												*/
 	msgExistDuration	: 0,								// 메세지가 애니메이션을 빼면 얼마나 오래 표시될 지

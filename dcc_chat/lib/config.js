@@ -3,7 +3,7 @@ configData = {
 	personalColor			:	/*false*/true,
 	badgeVisible			: false,
 	themeURI					: "",
-	theme							: "default",
+	theme							: "\theme\default\theme.css",
 	themeName					: "",
 	msgExistDuration	: 0,
 	msgAniDuration		: 0,
