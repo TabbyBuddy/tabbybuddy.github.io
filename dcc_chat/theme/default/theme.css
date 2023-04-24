@@ -133,45 +133,6 @@ html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
 
 
 
-/* 클립이 포함된 채팅 메세지에 대한 설정 */
-/* 크롬 등 보안설정된 브라우저에선 디버그가 불가능하므로 유의 */
-/*
-	<div class="chat_outer_box clip_included">
-		<div class="chat_inner_box">
-			...
-		</div>
-		<div class="chat_msg_box">
-			<div class="chat_clip_box">
-				<img src="https://clips-media-assets.twitch.tv/*-preview.jpg">
-				<div class="chat_clip_title">이걸 스트리머가 또</div>
-				<div class="chat_clip_by">Clipped by 맛물</div>
-			</div>
-			...
-	클립 로드에 실패했을 경우
-			<div class="chat_clip_box text_only invalid text_only">
-				Invalid Clip
-			</div>
-			...
-	클립 미리보기를 미표시설정했을 경우(configData.loadClipPreview == false)
-			<div class="chat_clip_box text_only">
-				(configData.clipReplaceMsg)
-			</div>
-			...
-	0.3.0 버전과 그 이후
-	<div class="chat_outer_box clip_included">
-		<div class="chat_upper_box">
-			...
-		</div>
-		<div class="chat_lower_box">
-			<div class="chat_clip_box">
-				<img src...>
-				<div class="chat_clip_title">...</div>
-				<div class="chat_clip_by">...</div>
-			</div>
-			<div class="chat_msg_box">
-			</div>
-			...
-*/
 .clip_included .chat_msg_box /* SOON DEPRECATED */
 {
 	/* 클립과 일반 텍스트를 같이 보냈을 경우를 위해 높이를 높여준다 */
