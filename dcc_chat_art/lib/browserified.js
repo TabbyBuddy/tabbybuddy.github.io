@@ -34,7 +34,7 @@ configDefault = {
 																					 const value 																*/
 	nick							: "justinfan16831",	// 트위치 IRC에서 이용할 gust nickname
 	pass							: "foobar",					// 트위치 IRC에서 이용할 guest password
-	channel						: "#tabby_x2",			/* 접속할 채널
+	channel						: "#max886",			/* 접속할 채널
 																					 "#id1,#id2,.."으로 여러 채널에 접속 가능		*/
 	retryInterval			: 2,								// 접속에 끊겼을 때 재접속 시도 간격(초)
 	allMessageHandle	: false,						// IRC로부터 받은 처리되지 않은 메세지를 html에 표시
