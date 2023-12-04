@@ -335,8 +335,11 @@ dcConsData = [
 	
 	{name:"00249.gif",			keywords:["복잡띵킹"],			tags:["리사수콘"]},
 	
-	//띵킹페이스
+	//태비콘
 	{name:"00250.gif",			keywords:["태비쓰담1"],			tags:["태비콘"]},	
-	{name:"00251.gif",			keywords:["태비쓰담2"],			tags:["태비콘"]}	
-	
+	{name:"00251.gif",			keywords:["태비쓰담2"],			tags:["태비콘"]},	
+
+	//모리콘
+	{name:"00252.gif",			keywords:["모리몰루"],			tags:["모리콘"]}
+
 ];
