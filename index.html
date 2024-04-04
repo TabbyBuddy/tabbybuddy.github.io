@@ -23,7 +23,7 @@ footer	 {
 	}
 
 a {
-    color: #c5b8ff;
+    color: #02e895;
 }
 	
 .width100 {
@@ -82,12 +82,12 @@ div.dccon.column {
       padding-bottom: 32px;
 	  flex-direction: column;
 	  display: flex;
-      background: #463981;
+      background: #141517;
     }
 	
 	.img-responsive:hover {
-      border: 1px solid #b675ff;
-      box-shadow: 0px 0px 10px 1px #b675ff, inset 0px 0px 10px 1px #b675ff; 
+      border: 1px solid #ffffff;
+      box-shadow: 0px 0px 10px 1px #02e895, inset 0px 0px 10px 1px #02e895; 
     }	 
 
     body {
@@ -103,7 +103,7 @@ div.dccon.column {
     }
 	
     .chip {    
-	background: #7771ab;
+	background: #2e3033;
     color: #fff;
       margin-right: 10px;
       margin-bottom: 10px;
@@ -191,6 +191,23 @@ div.dccon.column {
 													{ position:absolute;
 														top:0; bottom:0; left:0; right:0;
 														margin:0; }
+														
+
+.form-input {
+background: #000;
+border: .1rem solid #000000;
+color: #ff7352;
+}
+
+.menu {
+    background: #000;
+	box-shadow: 0 0.1rem 0.4rem rgb(0 0 0 / 30%);
+	}
+
+.form-autocomplete .form-autocomplete-input .form-input {
+    border-color: #02e895;
+	}
+	
   </style>
 </head>
 
@@ -201,7 +218,7 @@ div.dccon.column {
         <div class="input-group input-inline width100">
           <div class="form-autocomplete width100">
             <div class="form-autocomplete-input form-input has-icon-right">
-              <input class="form-input" id="search" type="text" placeholder="콘 이름으로 검색" />
+              <input class="form-input" id="search" type="text" placeholder="이름으로 검색" />
               <i class="form-icon icon icon-cross" id="search_clear"></i>
             </div>
             <ul class="menu hide" id="autocomplete"></ul>
