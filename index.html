@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>태비 디시콘 검색엔진</title>
+  <title>태비콘 검색엔진</title>
   <link rel="shortcut icon" href="./icon2.ico">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.14/spectre-exp.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/spectre.css/0.2.14/spectre-icons.min.css" />
@@ -201,7 +201,7 @@ div.dccon.column {
         <div class="input-group input-inline width100">
           <div class="form-autocomplete width100">
             <div class="form-autocomplete-input form-input has-icon-right">
-              <input class="form-input" id="search" type="text" placeholder="디시콘 이름으로 검색" />
+              <input class="form-input" id="search" type="text" placeholder="콘 이름으로 검색" />
               <i class="form-icon icon icon-cross" id="search_clear"></i>
             </div>
             <ul class="menu hide" id="autocomplete"></ul>
@@ -482,7 +482,7 @@ div.dccon.column {
     $(document).ready(function() {
       var dcconListUrl = getUrlParameter('dccon_list');
       if (dcconListUrl == undefined) {
-        dcconListUrl = 'https://raw.githubusercontent.com/minwoool/minwoool.github.io/master/dccon.json';
+        dcconListUrl = 'https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dccon.json';
       }
       $.getJSON(dcconListUrl).done(function(data) {
           dcconList = data.dccons;
@@ -496,7 +496,7 @@ div.dccon.column {
     });
   </script>
  <footer>
-		Edited by <a href="https://www.twitch.tv/tabby_x2">Tabbytabby</a>
+		Edited by <a href="https://chzzk.naver.com/fd7535e16c1716dba38bcf8dfe00d8a3">태비군</a>
       </footer>
 	</article> 
  </body>

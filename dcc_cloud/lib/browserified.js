@@ -1,3 +1,7 @@
+
+// 디씨콘 구름 전용
+
+
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 /* 기본 설정 */
 configDefault = {
@@ -34,7 +38,7 @@ configDefault = {
 																					 const value 																*/
 	nick							: "justinfan00000",	// 트위치 IRC에서 이용할 gust nickname
 	pass							: "foobar",					// 트위치 IRC에서 이용할 guest password
-	channel						: "#tabby_x2",			/* 접속할 채널
+	channel						: "#tabby_tabby",			/* 접속할 채널
 																					 "#id1,#id2,.."으로 여러 채널에 접속 가능		*/
 	retryInterval			: 3,								// 접속에 끊겼을 때 재접속 시도 간격(초)
 	allMessageHandle	: false,						// IRC로부터 받은 처리되지 않은 메세지를 html에 표시
