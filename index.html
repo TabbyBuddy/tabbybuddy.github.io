@@ -379,7 +379,7 @@ color: #ffffff;
       tags.sort();
       new Clipboard('.dccon, .autocomplete-item').on('success', function(e) {
         var $toast = $('<div class="toast toast-primary">' +
-          '"' + e.text + '"을(를) 클립보드에 복사했습니다.' +
+          '"' + e.text + '"콘을(를) 클립보드에 복사했습니다' +
           '</div>');
         $toast.delay(3000).fadeOut('slow', function() {
           $toast.remove();
