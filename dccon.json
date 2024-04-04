@@ -333,20 +333,22 @@
 
 
 
-    {"keywords" : ["띵킹1"], "tags": ["띵킹페이스콘", "안움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00245.png"},
-    {"keywords" : ["띵킹2"], "tags": ["띵킹페이스콘", "안움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00246.png"},
-    {"keywords" : ["회전띵킹1"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00247.gif"},
-    {"keywords" : ["회전띵킹2"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00248.gif"},
+    {"keywords" : ["띵킹1"], "tags": ["띵킹페이스콘", "안움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00245.png"},
+    {"keywords" : ["띵킹2"], "tags": ["띵킹페이스콘", "안움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00246.png"},
+    {"keywords" : ["회전띵킹1"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00247.gif"},
+    {"keywords" : ["회전띵킹2"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00248.gif"},
 
-    {"keywords" : ["복잡띵킹"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00249.gif"},
+    {"keywords" : ["복잡띵킹"], "tags": ["띵킹페이스콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00249.gif"},
 	
 	
 	
-	{"keywords" : ["태비쓰담1"], "tags": ["태비콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00250.gif"},
-    {"keywords" : ["태비쓰담2"], "tags": ["태비콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00251.gif"},
+	{"keywords" : ["태비쓰담1"], "tags": ["태비콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00250.gif"},
+    {"keywords" : ["태비쓰담2"], "tags": ["태비콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00251.gif"},
 	
-    {"keywords" : ["모리몰루"], "tags": ["모리콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_chat/images/dccon/00252.gif"}
+    {"keywords" : ["모리몰루"], "tags": ["모리콘", "움짤"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00252.gif"}
 	
 		
+	{"keywords" : ["쓰담"], "tags": ["액티브콘"], "path": "https://raw.githubusercontent.com/tabbybuddy/tabbybuddy.github.io/master/dcc_cloud/images/dccon/00253.png"}
+
   ]
 }
