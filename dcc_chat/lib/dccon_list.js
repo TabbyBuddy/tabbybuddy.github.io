@@ -313,18 +313,6 @@ dcConsData = [
 	{name:"00235.gif",			keywords:["화해의춤"],			tags:["톰과제리콘"]},	
 	
 	
-	
-	//리사수콘
-	{name:"00236.png",			keywords:["암드"],			tags:["리사수콘"]},	
-	{name:"00237.png",			keywords:["라이젠"],			tags:["리사수콘"]},	
-	{name:"00238.png",			keywords:["웰컴암드"],			tags:["리사수콘"]},
-	{name:"00239.png",			keywords:["계획대로수"],			tags:["리사수콘"]},
-	
-	{name:"00240.png",			keywords:["고우시다"],			tags:["리사수콘"]},	
-	{name:"00241.png",			keywords:["암풍당당"],			tags:["리사수콘"]},
-	
-	
-	
 	//관짝댄스콘
 	{name:"00242.gif",			keywords:["관짝준비"],			tags:["관짝댄스콘"]},	
 	{name:"00243.gif",			keywords:["관짝댄스"],			tags:["관짝댄스콘"]},	
@@ -339,9 +327,6 @@ dcConsData = [
 	
 	{name:"00249.gif",			keywords:["복잡띵킹"],			tags:["리사수콘"]},
 	
-	//태비콘
-	{name:"00250.gif",			keywords:["태비쓰담1"],			tags:["태비콘"]},	
-	{name:"00251.gif",			keywords:["태비쓰담2"],			tags:["태비콘"]},	
 
 	//모리콘
 	{name:"00252.gif",			keywords:["모리몰루"],			tags:["모리콘"]}
