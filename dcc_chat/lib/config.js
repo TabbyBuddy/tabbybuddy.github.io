@@ -25,7 +25,7 @@ configData = {
 	webSocket					: "wss://irc-ws.chat.twitch.tv:443",
 	nick							: "justinfan16831",
 	pass							: "foobar",
-	channel						: "#tabby_sub",
+	channel						: "#tabby_tabby",
 	retryInterval			: 2,
 	allMessageHandle	: /*false*/false,
 	muteUser					: ["Nightbot", "Ssakdook", "twipkr"],
