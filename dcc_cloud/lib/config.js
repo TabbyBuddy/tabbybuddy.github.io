@@ -23,7 +23,7 @@ configData = {
 	loadClipPreview		: false,
 	clipReplaceMsg		: "[ 클립 ]",
 	webSocket					: "wss://irc-ws.chat.twitch.tv:443",
-	nick							: "jusnfan16831",
+	nick							: "justinfan16831",
 	pass							: "foobar",
 	channel						: "#tabby_tabby",
 	retryInterval			: 2,
