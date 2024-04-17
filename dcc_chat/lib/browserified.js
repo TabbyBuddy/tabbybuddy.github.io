@@ -21,7 +21,7 @@ configDefault = {
 																					 theme로부터 import 												*/
 	debugLevel				:	2,								// 0:미표시, 1:console.log, 2:addChatMessage
 	useDisplayName		: true,						// 한글 닉네임으로 이름을 표시할지
-	loadCheerImgs			: true,						// 비트 후원채팅을 이미지로 표시할지
+	loadCheerImgs			: false,						// 비트 후원채팅을 이미지로 표시할지
 	loadTwitchCons		: true,						// 트위치 이모티콘과 구독콘을 불러올지
 	consRealSubsOnly	: true,						/* 실제 구독자만 구독콘을 쓸 수 있게 할지
 																					 로딩이 빨라짐															*/

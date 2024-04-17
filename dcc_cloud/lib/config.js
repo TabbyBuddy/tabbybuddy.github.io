@@ -13,7 +13,7 @@ configData = {
 	msgAniDuration		: 2,
 	debugLevel				:	2,
 	useDisplayName		: true,
-	loadCheerImgs			: true,
+	loadCheerImgs			: false,
 	loadTwitchCons		: true,
 	consRealSubsOnly	: true,
 	loadDcCons				: true,
